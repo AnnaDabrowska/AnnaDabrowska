@@ -13,7 +13,7 @@
 
 • Azure Cloud: Azure SQL Database, Azure Data Factory, Azure Databricks, Azure Cosmos DB, Azure Synapse Analytics, Azure Stream Analytics, Azure Machine Learning, Power BI
 
-👯 I’m looking to collaborate on Data Science || Data Engineering || DevOps Role
+👯 I’m looking to collaborate on Web Development || Data Science || Data Engineering || DevOps Roles
 
 📫 How to reach me: https://www.linkedin.com/in/anna-dabrowska-dev/
 <!--
