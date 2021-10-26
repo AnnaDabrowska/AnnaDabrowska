@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🌱 2020 & 2021 learning :
+
 • Front-end: HTML5, CSS3, RWD, JavaScript, jQuery, React, React Native
 
 • Back-end: GIT, GitHub, Database, API, Unit and Integration Testing, Express, NodeJS, AJAX
