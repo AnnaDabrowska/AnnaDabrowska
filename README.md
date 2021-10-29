@@ -8,6 +8,8 @@
 
 • Data Science & Data Engineering & Machine Learning: Pandas, Jupyter, Matplotlib, Scikit-Learn, NumPy, Seaborn, Plotly, PySpark, TensorFlow, Keras, NLP, Power BI, Google Cloud
 
+• Data Visualization Design with JavaScript: Chart.js, FusionCharts.js, highcharts.js, Plotly.js, amCharts.js, Cytoscape.js, joint.js, React-vis.js, apexcharts.js, D3.js.
+
 • DevOps, DataOps and MLOps: Linux, CLI, Bash, Git, Python, Docker, Kubernetes, Ansible, AWS
 
 • Blockchain: Smart Contract, Solidity. DeFi, NFT
