@@ -10,13 +10,10 @@
 
 • Data Visualization Design with JavaScript: Chart.js, FusionCharts.js, highcharts.js, Plotly.js, amCharts.js, Cytoscape.js, joint.js, React-vis.js, apexcharts.js, D3.js.
 
-• DevOps, DataOps and MLOps: Linux, CLI, Bash, Git, Python, Docker, Kubernetes, Ansible, AWS
-
 • Blockchain: Smart Contract, Solidity. DeFi, NFT
 
-• Azure Cloud: Azure SQL Database, Azure Data Factory, Azure Databricks, Azure Cosmos DB, Azure Synapse Analytics, Azure Stream Analytics, Azure Machine Learning, Power BI
 
-👯 I’m looking to collaborate on Web Development || Data Science || Data Engineering || DevOps Roles
+👯 I’m looking to collaborate on Web Development || Data Science || Data Engineering
 
 📫 How to reach me: https://www.linkedin.com/in/anna-dabrowska-dev/
 <!--
